@@ -285,14 +285,14 @@
   }
   .contact__item{
       margin-top: 20px;
-  }
-  .contact__name {
-      display: none;
-  }
+  } 
   .contact__content{
       min-height: 300px;
   }
   .experience {
     background: none;
+}
+.contact__content {
+  min-height: 400px;
 }
 }
